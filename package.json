@@ -1,11 +1,11 @@
 {
-  "name": "epubjs",
-  "version": "0.3.88",
+  "name": "@talpor/epubjs",
+  "version": "0.3.88-rc.1",
   "description": "Parse and Render Epubs",
   "main": "lib/index.js",
   "module": "src/index.js",
   "types": "types/index.d.ts",
-  "repository": "https://github.com/futurepress/epub.js",
+  "repository": "https://github.com/talpor/epub.js",
   "directories": {
     "test": "test"
   },
